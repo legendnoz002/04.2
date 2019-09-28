@@ -1,0 +1,4 @@
+#Sun Sep 29 02:28:07 ICT 2019
+base.0=C\:\\Users\\ACER_NEW\\Desktop\\android-kotlin-fundamentals-apps-master\\DessertClickerLogs\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
